@@ -10,7 +10,7 @@ allowBuilds:
 packages:
   - packages/*
 catalog:
-  "@types/node": ^26.6.3
+  "@types/node": ^26.6.4
   tsdown: ^0.23.0
   "@babel/core": ^8.0.6
   "@babel/parser": ^8.0.6
@@ -21,10 +21,10 @@ catalog:
   oxlint: ^1.86.0
   preact: ^10.29.8
   playwright: ^1.63.0
-  vitest: ^5.0.2
+  vitest: ^5.0.3
   yaml: ^2.9.1
-  "@vitest/browser-playwright": ^5.0.2
-  "@vitest/coverage-v8": ^5.0.2
+  "@vitest/browser-playwright": ^5.0.3
+  "@vitest/coverage-v8": ^5.0.3
   typescript: ^7.0.2
   "@e18e/eslint-plugin": ^0.8.1
   changelogithub: ^15.0.5
